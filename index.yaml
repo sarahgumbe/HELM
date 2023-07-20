@@ -9,6 +9,6 @@ entries:
     name: yolo
     type: application
     urls:
-    - https://sarahgumbe.github.io/HELM/yolo-0.1.0.tgz
+    - https://sarahgumbe.github.io/HELM/charts/yolo-0.1.0.tgz
     version: 0.1.0
 generated: "2023-07-20T17:47:11.1520763+03:00"
